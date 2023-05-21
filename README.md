@@ -10,5 +10,5 @@ In the BotAudioToVoice.py file, you need to set the TOKEN value.
 4) At the bottom, activate the "Revoke current token" function.
 5) The ID will update and then copy it to a convenient location.
 
-# Stert work bot
+# Start work bot
 To run the bot, run BotAudioToVoice.py
