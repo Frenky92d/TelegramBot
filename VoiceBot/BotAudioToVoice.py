@@ -1,7 +1,4 @@
-from VoiceBot import *
-
-
-TOKEN = 'token'
+from .. import *
 
 
 class TelBotVoice:
